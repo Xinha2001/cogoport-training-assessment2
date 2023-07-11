@@ -1,0 +1,17 @@
+The project was made using React JS primarily. In order to run the project correctly, please follow the steps below:
+
+1. Download the ZIP code from Github
+
+2. Extract the code to a new folder
+
+3. Make sure all of the files are extracted correctly to the new folder, now open the folder in the VS Code editor.
+
+4. Now, open terminal and make sure the terminal has the path of the folder.
+
+5. Hit npm install, and if npm install is showing any dependency errors, kindly install the files required, if already not existing in pc.
+
+6. Run the command: npm config set legacy-peer-deps true  (****Only run this command in terminal if file not existing in the client side pc****).
+
+7. Hit npm install, then npm start to run the project in the default web browser.
+
+Just as a footer note, if you want to set the --legacy-peer-deps flag by default for all of your NPM installs, then you can consider updating the . npmrc file. The . npmrc file is a configuration file used by the Node Package Manager (npm) to manage settings and options for the npm client.
