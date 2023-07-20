@@ -14,4 +14,4 @@ The project is submitted by Saurabh Sinha (NIT Silchar) and was made using React
 
 7. Hit npm install, then npm start to run the project in the default web browser.
 
-Just as a footer note, if you want to set the --legacy-peer-deps flag by default for all of your NPM installs, then you can consider updating the . npmrc file. The . npmrc file is a configuration file used by the Node Package Manager (npm) to manage settings and options for the npm client.
+Just as a footer note, if you want to set the --legacy-peer-deps flag by default for all of your NPM installs, then you can consider updating the . npmrc file. The . npmrc file is a configuration file used by the Node Package Manager (npm) to manage settings and options for the npm client. Also make sure the local host mention is correct in the URL section, for example it should be named as "localhost:3000" or "http://localhost:3000/" in the URL section to run it successfully.
