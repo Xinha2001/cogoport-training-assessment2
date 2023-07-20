@@ -1,0 +1,4 @@
+--**Below i shall be mentioning some of the problems i had faced while creating the homepage application. 
+Please go through them before evaluation:**--
+Unable to put the video section and the "Trusted By" section where the images were in a constant state of motion.
+Unable to replicate3 the icons exactly and at times, navigation bar was not able to function properly in mobile view.
