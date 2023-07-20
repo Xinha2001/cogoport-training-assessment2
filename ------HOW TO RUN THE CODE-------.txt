@@ -1,4 +1,4 @@
-The project was made using React JS primarily. In order to run the project correctly, please follow the steps below:
+The project is submitted by Saurabh Sinha (NIT Silchar) and was made using React JS primarily. In order to run the project correctly, please follow the steps below:
 
 1. Download the ZIP code from Github
 
